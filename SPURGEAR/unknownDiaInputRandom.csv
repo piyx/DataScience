@@ -1,0 +1,7 @@
+Power,Velocity Ratio,N1,N2,z1,z2,S_d1,S_d2,material
+10,0.0,200,,7,,172.6,172.6,steel-steel
+10,0.0,200,,7,,172.6,220.6,steel-steel
+10,0.0,200,,7,,172.6,207,steel-steel
+10,0.0,200,,7,,172.6,233.4,steel-steel
+10,0.0,200,,7,,172.6,462,steel-steel
+10,0.0,200,,7,,172.6,516.8,steel-steel
